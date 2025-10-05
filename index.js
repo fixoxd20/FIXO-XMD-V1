@@ -147,7 +147,7 @@ const port = process.env.PORT || 3000;
 ├─ 📢 *Join Our Channel:*  
 │   Click [**Here**](https://whatsapp.com/channel/0029VbAbJCO35fLy2OzH9y1I) to join!  
 ├─ ⭐ *Give Us a Star:*  
-│   Star Us [**Here**](https://github.com/MRSHABAN40/SHABAN-MD-V5)!  
+│   Star Us [**Here**](https://github.com/Oshan123466/FIXO-XMD-V1)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
 > _© MADE BY FIXO XD_`;
